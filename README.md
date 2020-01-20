@@ -5,3 +5,7 @@ With this module it will automatically use the folder-structure where you place 
 
 This could also work with e.g. categories which I might add later if you need it.
 
+With the friendly url you can have paths like:
+```
+http://localhost:8080/web/guest/-/sports/football/barcelona
+```
