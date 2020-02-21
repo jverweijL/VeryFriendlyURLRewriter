@@ -9,3 +9,5 @@ With the friendly url you can have paths like:
 ```
 http://localhost:8080/web/guest/-/sports/football/barcelona
 ```
+
+With nginx (or any other reverse proxy) you can probably make them even more friendly ;-)
